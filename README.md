@@ -1,5 +1,11 @@
-# SeaBattle
+# StudentRegSystem
+This application was created as personal practice in Java. The program simulates a student registration system, like one that most people who have gone or are currently going to college have used.
+#### The program allows the user to:
+* Search for specific courses in the database by a course number, and the database will return a list of classes available.
+* Register for a specific class by entering the corresponding CRN number (the system will not allow a class to be registered for if it has a time confliction with another class).
+* View a trial schedule in the form of a list of the courses that have been added to the schedule so far.
 
+Each of these are chosen from a simple menu upon opening the program.
 
 ## Prerequisites
 * Java Development Kit (JDK)
